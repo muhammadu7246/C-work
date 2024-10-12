@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage Calculater.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage_Calculater.Form1.resources
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage_Calculater.Properties.Resources.resources
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage Calculater.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\bin\Debug\percentage Calculater.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\bin\Debug\percentage Calculater.exe
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\bin\Debug\percentage Calculater.pdb
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage Calculater.exe
+C:\Users\Students\Desktop\Muhammad Usama\percentage Calculater\percentage Calculater\obj\Debug\percentage Calculater.pdb
