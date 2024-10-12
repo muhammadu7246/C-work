@@ -1,0 +1,13 @@
+C:\Users\Students\Desktop\Muhammad Usama\login\login\bin\Debug\login.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\login\login\bin\Debug\login.exe
+C:\Users\Students\Desktop\Muhammad Usama\login\login\bin\Debug\login.pdb
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.Form1.resources
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.exe
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.pdb
+C:\Users\Students\Desktop\Muhammad Usama\login\login\bin\Debug\en\login.resources.dll
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\login.Form1.en.resources
+C:\Users\Students\Desktop\Muhammad Usama\login\login\obj\Debug\en\login.resources.dll

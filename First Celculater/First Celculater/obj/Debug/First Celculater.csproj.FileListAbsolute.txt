@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First Celculater.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First_Celculater.Form1.resources
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First_Celculater.Properties.Resources.resources
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First Celculater.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First Celculater.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\bin\Debug\First Celculater.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\bin\Debug\First Celculater.exe
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\bin\Debug\First Celculater.pdb
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First Celculater.exe
+C:\Users\Students\Desktop\Muhammad Usama\First Celculater\First Celculater\obj\Debug\First Celculater.pdb
