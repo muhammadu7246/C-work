@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\bin\Debug\oppS_FIRST_CLASS.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\bin\Debug\oppS_FIRST_CLASS.exe
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\bin\Debug\oppS_FIRST_CLASS.pdb
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\obj\Debug\oppS_FIRST_CLASS.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\obj\Debug\oppS_FIRST_CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\obj\Debug\oppS_FIRST_CLASS.exe
+C:\Users\Students\Desktop\Muhammad Usama\oppS_FIRST_CLASS\oppS_FIRST_CLASS\obj\Debug\oppS_FIRST_CLASS.pdb

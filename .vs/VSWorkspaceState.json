@@ -2,8 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\app",
-    "\\app\\app\\obj\\Release"
+    "\\app\\app"
   ],
   "SelectedNode": "\\app\\app\\Form1.cs",
   "PreviewInSolutionExplorer": false
