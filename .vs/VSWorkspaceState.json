@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\app"
+    "\\app\\app",
+    "\\oppS_FIRST_CLASS",
+    "\\oppS_FIRST_CLASS\\oppS_FIRST_CLASS"
   ],
-  "SelectedNode": "\\app\\app\\Form1.cs",
+  "SelectedNode": "\\oppS_FIRST_CLASS\\oppS_FIRST_CLASS\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

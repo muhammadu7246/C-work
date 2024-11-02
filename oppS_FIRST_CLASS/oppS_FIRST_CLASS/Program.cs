@@ -70,6 +70,11 @@ namespace SimpleAdd
         }
     }
 
+    // public name()
+    // {
+       //     Console.WriteLine("Hamza");
+    //}
+
     class Program
     {
         static void Main(string[] args)
