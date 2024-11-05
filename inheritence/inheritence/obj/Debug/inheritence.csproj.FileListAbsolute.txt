@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\obj\Debug\inheritence.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\obj\Debug\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\bin\Debug\inheritence.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\bin\Debug\inheritence.exe
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\bin\Debug\inheritence.pdb
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\obj\Debug\inheritence.exe
+C:\Users\Students\Desktop\Muhammad Usama\inheritence\inheritence\obj\Debug\inheritence.pdb
