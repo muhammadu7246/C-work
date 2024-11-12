@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app\\app",
-    "\\oppS_FIRST_CLASS",
-    "\\oppS_FIRST_CLASS\\oppS_FIRST_CLASS"
+    "\\oppS_FIRST_CLASS\\oppS_FIRST_CLASS",
+    "\\simple-music-player-app-in-c-sharp-master"
   ],
-  "SelectedNode": "\\oppS_FIRST_CLASS\\oppS_FIRST_CLASS\\Program.cs",
+  "SelectedNode": "\\simple-music-player-app-in-c-sharp-master\\MusicPlayerApp.sln",
   "PreviewInSolutionExplorer": false
 }

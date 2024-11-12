@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\bin\Debug\Polymor.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\bin\Debug\Polymor.exe
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\bin\Debug\Polymor.pdb
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\obj\Debug\Polymor.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\obj\Debug\Polymor.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\obj\Debug\Polymor.exe
+C:\Users\Students\Desktop\Muhammad Usama\Polymor\Polymor\obj\Debug\Polymor.pdb

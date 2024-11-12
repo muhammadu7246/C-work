@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\bin\Debug\abstraction.exe
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\bin\Debug\abstraction.pdb
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\obj\Debug\abstraction.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\obj\Debug\abstraction.exe
+C:\Users\Students\Desktop\Muhammad Usama\abstraction\abstraction\obj\Debug\abstraction.pdb
