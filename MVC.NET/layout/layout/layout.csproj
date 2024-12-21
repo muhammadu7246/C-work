@@ -108,6 +108,7 @@
     <Content Include="Views\layout\Home.cshtml" />
     <Content Include="Views\Shared\_sidebar.cshtml" />
     <Content Include="Views\layout\about.cshtml" />
+    <Content Include="Views\Shared\_navbar.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
