@@ -5,9 +5,8 @@ using System.Web;
 
 namespace Api.Models
 {
-    public class Api123
+    public class product
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
     }

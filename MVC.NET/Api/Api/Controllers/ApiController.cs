@@ -9,16 +9,59 @@ namespace Api.Controllers
 {
     public class ApiController : Controller
     {
-        // GET: Api
-        public JsonResult GetApi()
+        // GET: Product/Create
+        public ActionResult Create()
         {
-            var Apis = new List<Api123>
+            return View();
+        }
+
+        // POST: Product/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Product product)
+        {
+            if (ModelState.IsValid)
             {
-                 new Api123 { Id = 1, Name = "Laptop", Price = 750.00M },
-                new Api123 { Id = 2, Name = "Tablet", Price = 300.00M },
-                new Api123 { Id = 3, Name = "Smartphone", Price = 500.00M }
-            };
-            return Json(Apis, JsonRequestBehavior.AllowGet);
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    string query = "INSERT INTO Products (Name, Price) VALUES (@Name, @Price)";
+                    SqlCommand cmd = new SqlCommand(query, conn);
+                    cmd.Parameters.AddWithValue("@Name", product.Name);
+                    cmd.Parameters.AddWithValue("@Price", product.Price);
+
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                return RedirectToAction("Index");
+            }
+            return View(product);
+        }
+
+        // GET: Product/Index
+        public ActionResult Index()
+        {
+            var products = new List<Product>();
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string query = "SELECT Id, Name, Price FROM Products";
+                SqlCommand cmd = new SqlCommand(query, conn);
+
+                conn.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    products.Add(new Product
+                    {
+                        Id = Convert.ToInt32(reader["Id"]),
+                        Name = reader["Name"].ToString(),
+                        Price = Convert.ToDecimal(reader["Price"])
+                    });
+                }
+                conn.Close();
+            }
+
+            return View(products);
         }
     }
-}
